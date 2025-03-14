@@ -20,10 +20,7 @@ BMI Calculator is a simple Android application that helps users calculate their 
 ## 📸 Screenshots  
 
 <img src="https://github.com/user-attachments/assets/8999b3a6-0e33-4ff9-b32d-f769c748d31a" width="250">
-
 <br>
-<br>
-
 <img src="https://github.com/user-attachments/assets/d1b600a1-1d84-4601-b8ce-4312a7e89ac9" width="250">  
 
 
